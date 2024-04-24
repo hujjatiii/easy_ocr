@@ -6,7 +6,7 @@
 
 ```bash
     pip3 install pytorch
-    ```
+ ```   
 
 - EasyOCR
 
